@@ -1,0 +1,20 @@
+.sign{
+    width: fit-content;
+    margin-top: 10px;
+    margin-right: 30px;
+    border:3px dashed black;
+    padding: 10px;
+    transition: 0.1s;
+}
+
+.sign:hover{
+    transform: scale(1.2);
+    background-color: #292929;
+    color:white;
+    cursor: pointer;
+    border:3px solid  #292929;
+}
+
+.navbar{
+    display:flex;
+}
