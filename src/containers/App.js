@@ -13,7 +13,7 @@ import Register from '../components/Register';
 //verifying Clarifai
  
 const app = new Clarifai.App({
- apiKey: '180418bedae44efb9cf897dc75d1b4b9'
+ apiKey: 'a833a7a308aa49c18a17557f04ebbad3'
 });
 //verification completed
 
