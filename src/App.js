@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 import 'tachyons';
-import NavigationBar from '../components/NavigationBar';
-import Logo from '../components/Logo';
-import ImageLinkForm from '../components/ImageLinkForm';
-import Rank from '../components/Rank';
-import FaceRecognition from '../components/FaceRecognition.js';
+import NavigationBar from './components/NavigationBar';
+import Logo from './components/Logo';
+import ImageLinkForm from './components/ImageLinkForm';
+import Rank from './components/Rank';
+import FaceRecognition from './components/FaceRecognition.js';
 import Clarifai  from 'clarifai';
-import Signin from '../components/Signin';
-import Register from '../components/Register';
+import Signin from './components/Signin';
+import Register from './components/Register';
 
 //verifying Clarifai
  
