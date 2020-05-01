@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/imagerecog/static/css/main.87c45dd5.chunk.css",
+    "main.js": "/imagerecog/static/js/main.b2d36084.chunk.js",
+    "main.js.map": "/imagerecog/static/js/main.b2d36084.chunk.js.map",
+    "runtime-main.js": "/imagerecog/static/js/runtime-main.8e6a8fe2.js",
+    "runtime-main.js.map": "/imagerecog/static/js/runtime-main.8e6a8fe2.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/imagerecog/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d6100127.chunk.js": "/imagerecog/static/js/2.d6100127.chunk.js",
+    "static/js/2.d6100127.chunk.js.map": "/imagerecog/static/js/2.d6100127.chunk.js.map",
+    "index.html": "/imagerecog/index.html",
+    "precache-manifest.5ea10c3b7c0e20c1c3f861bf426c39d1.js": "/imagerecog/precache-manifest.5ea10c3b7c0e20c1c3f861bf426c39d1.js",
+    "service-worker.js": "/imagerecog/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/imagerecog/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.87c45dd5.chunk.css.map": "/imagerecog/static/css/main.87c45dd5.chunk.css.map",
+    "static/js/2.d6100127.chunk.js.LICENSE.txt": "/imagerecog/static/js/2.d6100127.chunk.js.LICENSE.txt",
+    "static/media/logo1.png": "/imagerecog/static/media/logo1.46d29566.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e6a8fe2.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d6100127.chunk.js",
+    "static/css/main.87c45dd5.chunk.css",
+    "static/js/main.b2d36084.chunk.js"
+  ]
+}
